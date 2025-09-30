@@ -1,0 +1,17 @@
+# Number Guessing Game - Python Dependencies
+
+# External packages required for MySQL connection
+mysql-connector-python==8.1.0
+python-dotenv==1.0.0
+
+# The following are used from Python's standard library:
+# - tkinter (GUI framework)
+# - hashlib (password hashing)
+# - random (number generation)
+
+# Database: MySQL (instead of sqlite3)
+
+# Note: Tkinter may need to be installed separately on some systems:
+# - macOS: brew install python-tk
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Windows: Usually included with Python installation
